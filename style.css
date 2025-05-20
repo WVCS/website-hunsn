@@ -1,3 +1,13 @@
 body {
-
+  background: #99DDC8;
+   color: #556F44;
+}
+h2 {
+  color: #283F3B;
+   text-decoration: underline 2.5px;
+  letter-spacing: 1px;
+  font-size: 30px;
+}
+img {
+  translate: 215px -75px;
 }
