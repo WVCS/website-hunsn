@@ -14,3 +14,23 @@ h2 {
 #tree2 {
   translate: -245px -75px;
 }
+nav {
+  list-style-type: none;
+  width: 100%;
+  background-color: #ffa500;
+  position: fixed;
+  top:0;
+  left:0;
+}
+li a {
+  color: green;
+  text-decoration: none;
+  display: block;
+  float: left;
+  padding: 25px 431.5px;
+  font-size: 20px;
+}
+li a:hover {
+background-color: purple;
+  color: white;
+}
