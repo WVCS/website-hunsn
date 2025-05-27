@@ -28,3 +28,12 @@ li a:hover {
 background-color: purple;
   color: white;
 }
+img {
+  color: purple;
+  border: 8px outset;
+  border-radius: 2px;
+  height: 125px;
+}
+#vertical {
+  height: 250px;
+}
